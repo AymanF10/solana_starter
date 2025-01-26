@@ -17,7 +17,6 @@ This project is designed to facilitate the creation, minting, and management of 
 - [Contributing](#contributing)
 - [License](#license)
 
-
 ## Installation
 1. Clone the repository:
    ```bash
